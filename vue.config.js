@@ -1,5 +1,5 @@
 module.exports = {
-    publicPath: '/tang/',
+    publicPath: '/tang1/',
     devServer: {
         proxy: {
             '/api': {
