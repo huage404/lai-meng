@@ -1,15 +1,13 @@
 <template>
   <div id="app">
-    <img :src="require('./assets/images/bg_01.png')" alt="">
-    <img :src="require('./assets/images/bg_02.png')" alt="">
+    <img :src="require('./assets/images/bg_01.jpg')" alt="">
+    <img :src="require('./assets/images/bg_02.jpg')" alt="">
     <entry-form></entry-form>
-    <img :src="require('./assets/images/bg_03.png')" alt="">
-    <img :src="require('./assets/images/bg_04.png')" alt="">
+    <img :src="require('./assets/images/bg_03.jpg')" alt="">
+    <img :src="require('./assets/images/bg_04.jpg')" alt="">
     <img :src="require('./assets/images/bg_05.jpg')" alt="">
-    <img :src="require('./assets/images/bg_06.png')" alt="">
-    <img :src="require('./assets/images/bg_07.png')" alt="">
-    <img :src="require('./assets/images/bg_08.png')" alt="">
-    <img :src="require('./assets/images/bg_09.jpg')" alt="">
+    <img :src="require('./assets/images/bg_06.jpg')" alt="">
+    <img :src="require('./assets/images/bg_07.jpg')" alt="">
     <div class="call">
       <div class="call-box">
         <div>

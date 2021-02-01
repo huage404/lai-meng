@@ -39,6 +39,20 @@ export default {
       axios.get(`/api/data/topic/diy/phone?id=24&formVal=${this.userphone}`).then(()=>{
         alert('保存成功')
       })
+
+      /*axios.post(`/teamBuyTe`,{
+        data: {
+          phone: 15461321512,
+          _token: 'hEui8t0kAL5EEw9VYNK93dzKGmeFDXxN40wB5Wte',
+          communityId: 304135,
+          tipType: 1,
+          id: 7328,
+          text: '线上团购立减15888元',
+        }
+      }).then(()=>{
+        alert('保存成功')
+      })*/
+
     }
   }
 }
