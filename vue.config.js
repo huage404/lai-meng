@@ -1,7 +1,12 @@
 module.exports = {
+<<<<<<< HEAD
     publicPath: '/yun_ding/',
     productionSourceMap: false,
     /* devServer: {
+=======
+    publicPath: '/tang1/',
+    devServer: {
+>>>>>>> 466e24782422b2ad1ef7b90b8a2632b22ade58a6
         proxy: {
             '/api': {
                 target: 'https://htm.sofang.com/', //接口域名
